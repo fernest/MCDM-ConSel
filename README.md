@@ -1,5 +1,7 @@
 # *MCDM-ConSel* – a Framework for Blockchain Consensus Protocol Selection using MCDM
 
+[![DOI](https://zenodo.org/badge/375339434.svg)](https://zenodo.org/badge/latestdoi/375339434)
+
 
 ## Goal of this repository
 
